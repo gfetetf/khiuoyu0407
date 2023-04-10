@@ -52,7 +52,7 @@ require (
 	github.com/DataDog/datadog-agent/pkg/util/scrubber v0.44.0-rc.4
 	github.com/DataDog/datadog-go/v5 v5.1.1
 	github.com/DataDog/datadog-operator v0.7.1-0.20230215125730-2ba58ce29d56
-	github.com/DataDog/ebpf-manager v0.2.8-0.20230331131947-0cbd4db2728c
+	github.com/DataDog/ebpf-manager v1.0.3
 	github.com/DataDog/go-libddwaf v0.0.0-20221118110754-0372d7c76b8a
 	github.com/DataDog/go-tuf v0.3.0--fix-localmeta-fork
 	github.com/DataDog/gohai v0.0.0-20221116153829-5d479901d2e9
@@ -569,7 +569,9 @@ require (
 require github.com/aquasecurity/trivy v0.0.0-00010101000000-000000000000
 
 require (
+	github.com/avast/retry-go v3.0.0+incompatible // indirect
 	github.com/cloudflare/circl v1.1.0 // indirect
+	github.com/florianl/go-tc v0.3.0 // indirect
 	github.com/rs/zerolog v1.29.0 // indirect
 	github.com/sigstore/rekor v1.0.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
