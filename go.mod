@@ -58,7 +58,7 @@ require (
 	github.com/DataDog/gohai v0.0.0-20221116153829-5d479901d2e9
 	github.com/DataDog/gopsutil v1.2.2
 	github.com/DataDog/nikos v1.12.0
-	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.1.4
+	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.1.5
 	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/metrics v0.1.4
 	github.com/DataDog/opentelemetry-mapping-go/pkg/quantile v0.1.4
 	github.com/DataDog/sketches-go v1.4.1
@@ -200,7 +200,7 @@ require (
 	go.opentelemetry.io/collector/confmap v0.71.0
 	go.opentelemetry.io/collector/exporter/loggingexporter v0.71.0
 	go.opentelemetry.io/collector/exporter/otlpexporter v0.71.0
-	go.opentelemetry.io/collector/pdata v1.0.0-rc7
+	go.opentelemetry.io/collector/pdata v1.0.0-rc9
 	go.opentelemetry.io/collector/processor/batchprocessor v0.71.0
 	go.opentelemetry.io/collector/receiver/otlpreceiver v0.71.0
 	go.uber.org/atomic v1.10.0
@@ -518,7 +518,7 @@ require (
 	go.opencensus.io v0.24.0 // indirect
 	go.opentelemetry.io/collector/consumer v0.71.0 // indirect
 	go.opentelemetry.io/collector/featuregate v0.71.0 // indirect
-	go.opentelemetry.io/collector/semconv v0.73.0 // indirect
+	go.opentelemetry.io/collector/semconv v0.75.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.39.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.39.0 // indirect
 	go.opentelemetry.io/contrib/propagators/b3 v1.14.0 // indirect
