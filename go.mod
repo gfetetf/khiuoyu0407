@@ -169,7 +169,7 @@ require (
 	github.com/samber/lo v1.37.0
 	github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da
 	github.com/secure-systems-lab/go-securesystemslib v0.4.0
-	github.com/shirou/gopsutil/v3 v3.23.2
+	github.com/shirou/gopsutil/v3 v3.23.4
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4
 	github.com/sirupsen/logrus v1.9.0
 	github.com/skydive-project/go-debouncer v1.0.0
@@ -214,7 +214,7 @@ require (
 	golang.org/x/exp v0.0.0-20230202163644-54bba9f4231b
 	golang.org/x/net v0.8.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.6.0
+	golang.org/x/sys v0.7.0
 	golang.org/x/text v0.8.0
 	golang.org/x/time v0.3.0
 	golang.org/x/tools v0.7.0
@@ -571,6 +571,7 @@ require github.com/aquasecurity/trivy v0.0.0-00010101000000-000000000000
 require (
 	github.com/cloudflare/circl v1.1.0 // indirect
 	github.com/rs/zerolog v1.29.0 // indirect
+	github.com/shoenig/go-m1cpu v0.1.5 // indirect
 	github.com/sigstore/rekor v1.0.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 )
