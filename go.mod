@@ -203,7 +203,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.0.0-rc7
 	go.opentelemetry.io/collector/processor/batchprocessor v0.71.0
 	go.opentelemetry.io/collector/receiver/otlpreceiver v0.71.0
-	go.uber.org/atomic v1.10.0
+	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.5.2
 	go.uber.org/dig v1.15.0
 	go.uber.org/fx v1.18.2
